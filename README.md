@@ -2,7 +2,7 @@
 
 
 ### Initial Logo
-![Logo-Initial](https://github.com/kalgory/Resource/blob/main/Logo-Initial-Background.png)
+![Logo-Initial](https://github.com/kalgory/Resource/blob/main/Logo-Initial-Background.svg)
 
 ### Text Logo
 ![Logo-Initial](https://github.com/kalgory/Resource/blob/main/Logo-Text.svg)
