@@ -8,4 +8,9 @@
 ![Logo-Initial](https://github.com/kalgory/Resource/blob/main/Logo-Text.svg)
 
 
-If you need more diverse resources, please contact jung@hyunmin.dev.
+### Text Logo With Color
+![Logo-Initial](https://github.com/kalgory/Resource/blob/main/Logo-Text-Color.svg)
+
+
+
+If you need more resources, please contact hyunmindev(jung@hyunmin.dev)
